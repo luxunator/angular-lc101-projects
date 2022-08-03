@@ -1,0 +1,9 @@
+.movies h3 {
+    color: grey;
+    text-align: center;
+    font-size: 3em;
+}
+
+.movies li {
+    color:grey;
+}
